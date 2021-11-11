@@ -19,4 +19,4 @@
 -Redirect to private route after successful login
 ```
 
-##Live Site Link: https://medical-43d7c.web.app/
+##Live Site Link: https://dental-point-20829.web.app
