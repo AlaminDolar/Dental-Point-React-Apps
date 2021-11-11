@@ -1,4 +1,4 @@
-# Getting Started with Dental React App named Dentist
+# Getting Started with Dental React App named Dental Point
 
 ## Used Technologies:
 ```
